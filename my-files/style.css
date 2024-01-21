@@ -58,4 +58,14 @@ main {
     background-color: cadetblue;
 }
 
+#service {
+    padding: 5px 0px;
+    font-family: 'Concert One', sans-serif;
+}
+
+
+#services {
+    margin-left: 5px;
+    padding-left: 15px;
+}
 /* footer */
