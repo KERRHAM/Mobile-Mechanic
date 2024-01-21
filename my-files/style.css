@@ -18,6 +18,9 @@ body {
 
 header {
     background-color: darkgreen;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
 }
 
 h1 {
@@ -26,17 +29,29 @@ h1 {
 
 nav {
      position: absolute;
-     background-color: darkblue;
+     background-color: darkred;
      width: 100%;
      left: 0;
      padding: 0 1rem;
      box-shadow: 0 2px 2px #3a3a3a;
      display: none;
+     top: 7%;
+}
 
+/* drop-down menu*/
+#link-menu:checked~nav{
+    display: block;
+}
+#link-menu {
+    display: none;
+}
+.link-menu {
+    font-size: 2rem;
 }
 
 #auto {
     padding-left: 5px;
+    font-size: larger;
 }
 
 #auto a {
