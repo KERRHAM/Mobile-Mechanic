@@ -25,17 +25,19 @@ header {
 
 h1 {
     font-family: 'Concert One', sans-serif;
+    padding: 10px;
 }
 
 nav {
      position: absolute;
-     background-color: darkred;
+     background-color: darkgreen;
      width: 100%;
      left: 0;
      padding: 0 1rem;
      box-shadow: 0 2px 2px #3a3a3a;
      display: none;
-     top: 7%;
+     top: 9%;
+     list-style: none;
 }
 
 /* drop-down menu*/
@@ -47,6 +49,7 @@ nav {
 }
 .link-menu {
     font-size: 2rem;
+    padding-right: 10px;
 }
 
 #auto {
@@ -59,9 +62,6 @@ nav {
     text-decoration: none;
 }
 
-nav {
-
-}
 
 /* main content */
 
@@ -71,16 +71,21 @@ main {
 
 #offer {
     background-color: cadetblue;
+    padding: 30px 10px;
+    font-size: 160%;
 }
-
-#service {
-    padding: 5px 0px;
-    font-family: 'Concert One', sans-serif;
-}
-
 
 #services {
-    margin-left: 5px;
-    padding-left: 15px;
+    background-color: cadetblue;
+    border: 3px solid #3a3a3a;
+    font-size: 160%;
+}
+
+#list {
+    padding: 20px;
+}
+
+p {
+    padding: 10px;
 }
 /* footer */
