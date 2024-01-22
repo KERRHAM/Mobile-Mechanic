@@ -88,4 +88,32 @@ main {
 p {
     padding: 10px;
 }
+
+/* css styles for get a quote section*/
+ 
+#form {
+    background-color: cadetblue;
+    max-width: 100%;
+    text-align: center;
+    font-size: 1em;
+    padding: 20px;
+ }
+
+ #form_head {
+    font-size: 140%;
+ }
+
+ .contact {
+    color: black;
+    font-size: 1.5em;
+    padding-top: 20px;
+ }
+
+ .box {
+        color: blueviolet;
+    }
+
+
+
+
 /* footer */
