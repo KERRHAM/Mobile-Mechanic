@@ -82,6 +82,16 @@ main {
 }
 
 #offer h2 {
+    margin-bottom: 10px;
+}
+
+img {
+    width: 260px;
+    height: 250px;
+    padding: 10px;
+}
+
+#offer h2 {
     text-decoration: underline;
 }
 
