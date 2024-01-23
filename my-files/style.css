@@ -21,6 +21,9 @@ header {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
+    position: fixed;
+    z-index: 89;
+    width: 100%;
 }
 
 h1 {
@@ -36,7 +39,7 @@ nav {
      padding: 0 1rem;
      box-shadow: 0 2px 2px #3a3a3a;
      display: none;
-     top: 9%;
+     top: 100%;
      list-style: none;
 }
 
@@ -57,9 +60,9 @@ nav {
     font-size: larger;
 }
 
-#auto a {
-    color: aliceblue;
+a {
     text-decoration: none;
+    color: antiquewhite;
 }
 
 
@@ -68,27 +71,43 @@ nav {
 main {
     flex: 1 0 auto;
     background-color: cadetblue;
+    margin-top: 47px;
 }
 
 #offer {
+    border-bottom: 3px solid #3a3a3a;
     padding: 30px 10px;
-    font-size: 160%;
+    font-size: 140%;
+    text-align: center;
 }
 
-#oil {
-    
+#offer h2 {
+    text-decoration: underline;
 }
+
 #services {
-    border: 3px solid #3a3a3a;
+    border-bottom: 3px solid #3a3a3a;
+}
+
+#service-tag {
     font-size: 160%;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#services p {
+    padding: 15px;
+    font-size: 130%;
 }
 
 #list {
     padding: 20px;
+    font-size: 100%;
 }
 
 p {
-    padding: 10px;
+   text-align: center;
+   margin-left: 10px;
 }
 
 /* css styles for get a quote section*/
@@ -97,45 +116,76 @@ p {
     max-width: 100%;
     text-align: center;
     font-size: 1em;
-    padding: 20px;
  }
 
  #form_head {
-    font-size: 140%;
+    font-size: 160%;
+    padding: 20px;
+    text-decoration: underline;
  }
 
  .contact {
     color: black;
     font-size: 1.5em;
-    padding-top: 20px;
+    margin-top: 20px;
  }
 
  .box {
         color: blueviolet;
     }
 
-/* footer */
+  #submit {
+        margin: 20px;
+        font-size: 100%;
+    }
 
-footer {
-    background-color: darkgreen;
+
+#contact {
+    background-color: cadetblue;
+    border-top: 3px solid #3a3a3a;
 }
 
-#footer-tag {
+#contact-head{
     font-size: 160%;
     text-align: center;
     padding: 15px;
+    text-decoration: underline;
 
 }
 
-#footer-p {
+#contact-p1{
   font-size: 120%;
   text-align: center;
 }
 
-.social-link {
-    text-decoration: none;
-    color: antiquewhite;
-    display: flex;
-    flex-direction: column-reverse;
-    
+#contact-p2 {
+    font-size: 120%;
+    text-align: center;
+    padding: 10px 0;
+
 }
+
+/* Footer */
+
+footer {
+    padding-top: 10px;
+    background-color: darkgreen;
+}
+
+#footer-tel {
+    text-align: center;
+    font-size: 110%;
+    text-decoration: underline;
+}
+
+#social-link {
+    color: antiquewhite;
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: 140%;
+}
+
