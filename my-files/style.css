@@ -211,8 +211,21 @@ footer {
 
     }
 
+     #page-links {
+        display: flex;
+        list-style-type: none;
+    }
+
+    #page-links > li {
+       padding-left: 1rem;
+    }
+
+    #car {
+        display: none;
+    }
+
     #offer {
-        margin-top: 50px;
+        margin-top: 25px;
         font-size: 200%;
     }
 
@@ -230,7 +243,15 @@ footer {
 
     #form {
         font-size: 160%;
-        height: auto;
-        width: auto;
+    }
+
+    #list {
+        margin-left: 10px;
+    }
+
+    #form-inputs {
+        width: 400px;
+        height: 400px;
+        display: inline-block;
     }
 }
