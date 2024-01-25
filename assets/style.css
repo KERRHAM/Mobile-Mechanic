@@ -33,7 +33,7 @@ h1 {
 
 nav {
      position: absolute;
-     background-color: darkgreen;
+     background-color: ;
      width: 100%;
      left: 0;
      padding: 0 1rem;
@@ -70,29 +70,30 @@ a {
 
 main {
     flex: 1 0 auto;
-    background-color: cadetblue;
+    background-color: white;
     margin-top: 47px;
 }
 
 #offer {
-    display: flex;
-    flex-direction: row;
-    border-bottom: 3px solid #3a3a3a;
     font-size: 140%;
+    margin-top: 30px;
+    justify-content: center;
+    width: 100%;
 }
 
 #offer h2 {
     margin-bottom: 10px;
-}
-
-img {
-    width: 260px;
-    height: 250px;
-    padding: 10px;
+    text-align: center;
 }
 
 #offer h2 {
     text-decoration: underline;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
 }
 
 #services {
@@ -151,7 +152,7 @@ p {
 
 
 #contact {
-    background-color: cadetblue;
+    background-color: white;
     border-top: 3px solid #3a3a3a;
 }
 
