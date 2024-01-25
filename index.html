@@ -9,7 +9,7 @@
     <meta name="keywords" content="Mechanic, mobile repairs, breakdown, ">
     <title>Auto Kerr</title>
     <!-- Css Styles Link -->
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
     <!-- Header -->
@@ -37,15 +37,13 @@
             While most Garage's just fix and send you a big bill, Auto Kerr will
             explain the fault, why it has failed and potentially how to limit it happening 
             again.</p>
-     
-            <img src="assets/images/engine-oil.jpg" alt="image of oil being put into car">
-        
       </div>
     </section>
 
      
-     <section id="services">
-      <h2 id="service-tag">Auto Kerr Services:</h2>
+     <section>
+        <div id="Services>
+      <h2>Auto Kerr Services:</h2>
         <ul id="list">
             <li>MOT/PSV check</li>
             <li>Servicing</li>
@@ -56,51 +54,58 @@
           <p> The list above is only a few of our services,
             below is our get a quote section were we can assit you with anything else
             you require.</p>
+        </div>
      </section>
 
-     <section id="form">
-        <h2 id="form_head">Get a Quote:</h2>
-        <div id="form-inputs">
+     <section>
         <form action="https://formdump.codeinstitute.net" method="post" target="_blank">
+            <div id="form">
+             <h2>Get a Quote:</h2>
+              <label for="full_name">Your Name:</label>
+              <input type="text" id="full_name" name="full_name" placeholder="Enter your Name Here" required>
             
-            <label class="contact" for="full_name">Your Name:</label>
-            <input class="box" type="text" id="full_name" name="full_name" placeholder="Enter your Name Here" required>
+              <label for="telephone">Telephone:</label>
+              <input type="number" id="telephone" name="telephone" placeholder="Enter Telephone Number Here" required>
             
-            <label class="contact" for="telephone">Telephone:</label>
-            <input class="box" type="number" id="telephone" name="telephone" placeholder="Enter Telephone Number Here" required>
-            
-            <label class="contact" for="work">Service Required:</label>
-            <select name="work" id="work">
+              <label for="work">Service Required:</label>
+              <select name="work" id="work">
                 <option value="Winter-service-check">Winter-check</option>
                 <option value="mot-prep">MOT/PSV check & repair</option>
                 <option value="diagnostics">Diagnostic Plug in</option>
                 <option value="service">Full engine service & safety check</option>
                 <option value="other">Something else?</option>
-            </select>
+              </select>
+
+               <label for="description">Enter Query if required</label>
+               <input type="text" id="description" name="description" placeholder="Please Enter your query in your own words">
         
-            <input id="submit" type="submit" value="Submit!">
+               <input id="submit" type="submit" value="Submit!">
         </div>
         </form>
+     </section>
      
-     <section id="contact">
-         <h2 id="contact-head">Contact:</h2>
-           <p id="contact-p1"> Feel Free To Contact us Via our telephone number
+     <section>
+        <div id="contact">
+         <h2>Contact:</h2>
+           <p> Feel Free To Contact us Via our telephone number
                  given below for any other enquirys and also below are our social media links if you cant reach us by telephone</p>
-              <img src="assets/images/fixing-car.jpg" alt="Mechanic fixing car">
-              <p id="contact-p2">Feel free to have a look at our social media content to see what we've been up too recently.</p>
+              <img src="assets/images/fixing-exhaust.jpg" alt="Mechanic fixing car">
+              <p>Feel free to have a look at our social media content to see what we've been up too recently.</p>
+        </div>
      </section>
     </main>
     
     <!-- Footer -->    
     <footer>
      <section>
-        <p id="footer-tel">Tel: 0330 135 9779</p>
-        
+     <div>
+        <p>Tel: 0330 135 9779</p>
         <ul id="social-link">
             <li><a href="https://en-gb.facebook.com/" target="_blank" aria-label="link to Facebook Page"><i class="fa-brands fa-facebook"></i></a></li>
             <li><a href="https://twitter.com/?lang=en" target="_blank" aria-label="link to Twitter Page"><i class="fa-brands fa-twitter"></i></a></li>
             <li><a href="https://www.youtube.com/" target="_blank" aria-label="link to Youtube Page"><i class="fa-brands fa-square-youtube"></i></a></li>
         </ul>
+    </div>
     </section>
     </footer>
    <script src="https://kit.fontawesome.com/6d4748c69b.js" crossorigin="anonymous"></script>
