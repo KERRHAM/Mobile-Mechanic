@@ -75,10 +75,10 @@ main {
 }
 
 #offer {
+    display: flex;
+    flex-direction: row;
     border-bottom: 3px solid #3a3a3a;
-    padding: 30px 10px;
     font-size: 140%;
-    text-align: center;
 }
 
 #offer h2 {
