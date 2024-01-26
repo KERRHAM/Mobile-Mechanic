@@ -17,7 +17,7 @@ body {
 /* header */
 
 header {
-    background-color: darkgreen;
+    background-color: rgb(35, 143, 35);
     display: flex;
     align-items: baseline;
     justify-content: space-between;
@@ -103,6 +103,11 @@ main>h2 {
 
 #offer h2 {
     text-decoration: underline;
+}
+
+#offer>img {
+    height: 300px;
+    width: 300px;
 }
 
 /* Grid layout For Services Given */
@@ -211,7 +216,7 @@ select {
 
 footer {
     padding-top: 10px;
-    background-color: darkgreen;
+    background-color: rgb(35, 143, 35);
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -234,55 +239,8 @@ footer {
 @media screen and (min-width: 768px) {
     
     /* header */
-    nav {
-      display: block;
-      position: relative;
-      width: fit-content;
-      padding-right: 1rem;
-
-    }
-
-     #page-links {
-        display: flex;
-        list-style-type: none;
-    }
-
-    #page-links > li {
-       padding-left: 1rem;
-    }
-
-    #car {
-        display: none;
-    }
-
-    #offer {
-        margin-top: 25px;
-        font-size: 200%;
-    }
-
-    img {
-        width: 500px;
-        height: 500px;
-    }
+   
 
     /* main content */
     
-    #services {
-      border-bottom: 5px solid #3a3a3a;
-      font-size: 200%;
-    }
-
-    #form {
-        font-size: 160%;
-    }
-
-    #list {
-        margin-left: 10px;
-    }
-
-    #form-inputs {
-        width: 400px;
-        height: 400px;
-        display: inline-block;
-    }
-}
+   
