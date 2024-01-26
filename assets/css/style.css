@@ -159,7 +159,6 @@ main>h2 {
     flex-direction: column;
     text-align: center;
     justify-content: space-evenly;
-    border-top: 3px solid #3a3a3a;
     margin: 15px;
 }
 
@@ -179,10 +178,6 @@ input{
 select {
     width: 90%;
     border: 3px solid darkgreen;
-}
-
-#form>label{
-    
 }
 
 #submit {
@@ -243,5 +238,85 @@ footer {
    
 
     /* main content */
+
+    main>h2 {
+        font-size: 200%;
+    }
     
-   
+    /* Auto Kerr? section */
+
+    #offer {
+        font-size: 200%;
+    }
+
+    #offer img {
+        height: 500px;
+        width: 500px;
+        margin-left: 120px;
+    }
+
+    /* Auto Kerr Service grid/list section */
+    
+    #grid-logo>p {
+        font-size: 200%;
+        margin: 20px;
+    }
+
+    #grid-logo>h2 {
+        font-size: 200%;
+    }
+
+    .grid-item {
+        font-size: 180%;
+    }
+
+    .grid-item>img {
+        width: 200px;
+        height: 200px;
+      }
+      
+    /* Get a quote/contact Section */
+
+    #form {
+        font-size: 160%;
+        color: black;
+        font-weight: 200;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: space-evenly;
+        margin: 70px;
+    }
+
+    input{
+        font-size: 100%;
+        width: 90%;
+        padding: 10px;
+        border: 3px solid darkgreen;
+    }
+
+    select {
+        font-size: 100%;
+        width: 90%;
+        padding: 10px;
+        border: 3px solid darkgreen;
+    }
+
+    #form p {
+        margin: 10px;
+        font-size: 120%;
+    }
+
+    /* footer */
+
+    footer p {
+        font-size: 160%;
+    }
+
+    #social-link {
+        font-size: 180%;
+    }
+
+    
+
+    
