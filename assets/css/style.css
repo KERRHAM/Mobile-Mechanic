@@ -317,6 +317,41 @@ footer {
         font-size: 180%;
     }
 
+    /* Media Query to display project on laptops */
+    
+    @media screen and (min-width: 992px) {
+        
+        /* main content */
+
+        /* Auto Kerr? section */
+        
+        #offer {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        #offer-header {
+            text-align: center;
+            font-size: 200%;
+            text-decoration: underline;
+        }
+
+        #offer>p {
+            font-size: 110%;
+            padding: 20px;
+            margin-top: 40px;
+        }
+
+        #offer>img {
+            margin-right: 40px;
+            height: 330px;
+            width: 330px;
+        }
+
+       
+    }
+
     
 
     
