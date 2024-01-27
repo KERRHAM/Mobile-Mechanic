@@ -238,19 +238,15 @@ footer {
 
  /* Media Query to display project on tablets */
 @media screen and (min-width: 768px) {
-    
-    /* header */
-   
 
     /* main content */
-
-    main>h2 {
-        font-size: 200%;
-    }
+   
+  main>h2 {
+    font-size: 200%;
+ }
     
-    /* Auto Kerr? section */
-
-    #offer {
+   
+   #offer {
         font-size: 200%;
     }
 
@@ -327,18 +323,17 @@ footer {
     #social-link {
         font-size: 180%;
     }
+}
 
     /* Media Query to display project on laptops */
     
-    @media screen and (min-width: 992px) {
+   @media screen and (min-width: 992px) {
         
         /* main content */
 
         #hero-tag {
             margin-top: 100px;
         }
-
-        /* Auto Kerr? section */
         
         #offer {
             display: flex;
@@ -372,7 +367,6 @@ footer {
             flex-direction: column;
             text-align: center;
             justify-content: space-evenly;
-            margin: 20px 40px;
             border: 7px solid darkgreen;
         }
 
@@ -386,7 +380,7 @@ footer {
             margin-left: 400px;
         }
 
-        #submit{
+        #submit {
             width: 20%;
             margin-left: 530px;
         }
@@ -412,10 +406,4 @@ footer {
         #contact p {
             margin-top: 50px;
         }
-
-       
     }
-
-    
-
-    
