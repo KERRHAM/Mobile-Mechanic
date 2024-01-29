@@ -173,8 +173,14 @@ form {
     margin-top: 20px;
 }
 
+input {
+    border: 3px solid darkgreen;
+}
+
 #submit {
     margin-top: 10px;
+    color: black;
+    background-color: rgb(24, 181, 24);
 }
 
 /* Contact section (Mobile) */
