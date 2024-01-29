@@ -277,20 +277,22 @@ footer {
 
     .grid-item>img {
         max-width: 425px;
-        max-height: 450px;
+        max-height: 425px;
       }
       
     /* Get a quote/contact Section */
 
-    #form {
-        font-size: 160%;
+    form {
+        border: 7px solid darkgreen;
+        padding: 20px;
+        font-size: 110%;
         color: black;
         font-weight: 200;
         display: flex;
         flex-direction: column;
+        justify-content: space-between;
         text-align: center;
-        justify-content: space-evenly;
-        margin: 70px;
+        margin: 20px;
     }
 
     input{
@@ -300,6 +302,11 @@ footer {
         border: 3px solid darkgreen;
     }
 
+
+    label {
+    font-size: 20px;
+    }
+
     select {
         font-size: 100%;
         width: 90%;
@@ -307,9 +314,13 @@ footer {
         border: 3px solid darkgreen;
     }
 
-    #form p {
-        margin: 10px;
-        font-size: 120%;
+    #contact div {
+        font-size: 25px;
+    }
+
+    #contact-img>img {
+        width: 500px;
+        height: 500px;
     }
 
     /* footer */
