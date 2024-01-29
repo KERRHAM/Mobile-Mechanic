@@ -138,7 +138,6 @@ main>h2 {
     grid-template-columns: auto;
     background-color: darkgreen;
     padding: 10px;
-    max-width: ;
   }
   
  .grid-item {
@@ -163,12 +162,9 @@ form {
     align-items: center;
     border: 7px solid darkgreen;
     color: black;
-    font-weight: 200;
     margin: 10px;
     padding: 10px;
 }
-
-
 
 #submit {
     margin-top: 10px;
@@ -273,14 +269,6 @@ footer {
     form {
         font-size: 25px;
         margin: 0px 40px;
-    }
-
-    label {
-    
-    }
-
-    select {
-        
     }
 
     #contact div {
