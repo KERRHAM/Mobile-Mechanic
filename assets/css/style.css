@@ -135,9 +135,10 @@ main>h2 {
 
 .grid-container {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: auto;
     background-color: darkgreen;
     padding: 10px;
+    max-width: ;
   }
   
  .grid-item {
@@ -149,30 +150,28 @@ main>h2 {
   }
 
   .grid-item>img {
-    width: 150px;
-    height: 150px;
+    max-width: 250px;
+    max-height: 250px;
   }
 
 
 /* css styles for get a quote section*/
  
-#form {
+form {
+    border: 7px solid darkgreen;
+    padding: 10px;
     font-size: 110%;
     color: black;
     font-weight: 200;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     text-align: center;
-    justify-content: space-evenly;
-    margin: 15px;
-}
-
-#form h2 {
-    text-decoration: underline;
-}
-
-#form p {
     margin: 10px;
+}
+
+label {
+    font-size: 17px;
 }
 
 input{
@@ -186,8 +185,7 @@ select {
 }
 
 #submit {
-        margin: 20px;
-        font-size: 100%;
+        margin-top: 10px;
     }
 
 /* Contact section (Mobile) */
@@ -259,7 +257,7 @@ footer {
     #offer img {
         height: 500px;
         width: 500px;
-        margin-left: 120px;
+        justify-content: center;
     }
 
     /* Auto Kerr Service grid/list section */
@@ -278,8 +276,8 @@ footer {
     }
 
     .grid-item>img {
-        width: 200px;
-        height: 200px;
+        max-width: 425px;
+        max-height: 450px;
       }
       
     /* Get a quote/contact Section */
@@ -356,8 +354,8 @@ footer {
 
         #offer>img {
             margin-right: 40px;
-            height: 330px;
-            width: 330px;
+            max-height: 450px;
+            max-width: 450px;
         }
 
         /* Get a Quote Section*/
