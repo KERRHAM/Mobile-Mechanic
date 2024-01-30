@@ -24,7 +24,19 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
     * The Nav bar is a great way to offer stress free access to find your desired section and the logo stands
       out in the left corner.
 
-![Nav Bar with drop-down menu](/assets/images/drop-down-menu.png)
+    ![Nav Bar with drop-down menu](/assets/images/drop-down-menu.png)
+
+   * Header
+    
+      * The Header section features a Welcome message and Hero Image.
+    
+      * the welcome message is in a h2 element ot make it bold and stand out.
+
+      * The Hero Image is located below the heading and the image collabarates with the following sections.
+
+    
+     ![Header-section](/assets/images/nav-ss.png)
+      
       
 
 
