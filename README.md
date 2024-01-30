@@ -63,7 +63,18 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
 
     * Get a Quote 
        
-       *
+       * The get a quote form has 5 functions, The form asks for the users Full name,telephone number,service required,
+         additional information about your vehicle issue and a submit button to send info to Auto Kerr.
+       
+       * the form & inputs functions have a colored border, the submit button also has a background-color to better
+         the readability for the user.
+       
+       * the form also has Validation built in to make sure no input is left blank.
+
+
+       ![services](/assets/images/get-a-quote.png)
+         
+          
       
       
 
