@@ -309,12 +309,6 @@ footer {
    @media screen and (min-width: 992px) {
         
         /* main content */
-        
-        #offer {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-        }
 
         #offer-header {
             text-align: center;
@@ -354,16 +348,11 @@ footer {
 
         input {
             font-size: 25px;
-            border: 5px solid darkgreen;
-}
+            border: 5px solid darkgreen; 
         }
+        
 
         select {
             font-size: 25px;
         }
-
-        
-
-        
-        
     }
