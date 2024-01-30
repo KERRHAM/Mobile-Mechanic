@@ -87,6 +87,8 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
        
        * All the content in the contact section has been centered, Icon links have been colored white
          and font size increased for user readability.
+
+         ![contact section](/assets/readme/contact-ss.png)
   
   * Testing
    
@@ -102,20 +104,23 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
      error message appears and when submit is pressed new page is opened.
 
 
-   ## Bugs
+   
+   ### Bugs
+   Solved bugs
+
+   * When I opened my project on github i went to open my navbar and use the links to naviagte through the
+            page but Get a quote and contact werent working.
+
+   * I Figured out that my links never had the # in front of them to link with id.
+
+   * Adding the symbol # to link the id fixed the problem.
+
+     ![My Faulty Code](/assets/readme/code.jpg)
     
-    Solved bugs
+          
+
      
-     * When I opened my project on github i went to open my navbar and use the links to naviagte through the
-       page but Get a quote and contact werent working.
-
-     * I Figured out that my links never had the '#' in front of them to link with id.
-
-
-    ![My Faulty Code](/assets/readme/code.png)
-
-     * Adding the # symbol to link the id fixed the problem.
-
+      
          
           
       
