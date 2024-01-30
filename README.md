@@ -87,6 +87,22 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
        
        * All the content in the contact section has been centered, Icon links have been colored white
          and font size increased for user readability.
+  
+  * Testing
+   
+   * I tested that this project works on diffrent browsers: Safari and Chrome 
+
+   * I confirmed my website is responsive, the layout looks great on all the different screen size thanks
+     to chromes developer tools.
+   
+   * I confrimed that the Navigation,header, Auto Kerr?, services, get a quote and contact text are all readable 
+     and easy to understand.
+
+   * I have confirmed my form works, all data entered is posted and saved, all inputs must be filled or 
+     error message appears and when submit is pressed new page is opened.
+
+     
+
          
           
       
