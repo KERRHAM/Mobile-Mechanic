@@ -112,8 +112,10 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
      * I Figured out that my links never had the '#' in front of them to link with id.
 
 
-    [My Faulty Code](/assets/readme/code.png)
-    
+    ![My Faulty Code](/assets/readme/code.png)
+
+     * Adding the # symbol to link the id fixed the problem.
+
          
           
       
