@@ -61,7 +61,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
 
     ![services](/assets/images/SERVICES.png)
 
-    * Get a Quote 
+  * Get a Quote 
        
        * The get a quote form has 5 functions, The form asks for the users Full name,telephone number,service required,
          additional information about your vehicle issue and a submit button to send info to Auto Kerr.
@@ -73,6 +73,20 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
 
 
        ![services](/assets/images/get-a-quote.png)
+
+  * Contact
+       
+       * The Contact section has a Image, Heading and paragraph explaining how to get in direct contact
+         if youre having difficulty using the form. the paragraph also insists on clicking on the social
+         media links to have an insite in what jobs we've been upto recently.
+
+       * The contact section's text has been centered to increase the users Readability
+
+       * Below is the footer with Auto Kerrs telephone number and icons used for links to Facebook
+         twitter & Youtube.
+       
+       * All the content in the contact section has been centered, Icon links have been colored white
+         and font size increased for user readability.
          
           
       
