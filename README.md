@@ -101,8 +101,19 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
    * I have confirmed my form works, all data entered is posted and saved, all inputs must be filled or 
      error message appears and when submit is pressed new page is opened.
 
-     
 
+   ## Bugs
+    
+    Solved bugs
+     
+     * When I opened my project on github i went to open my navbar and use the links to naviagte through the
+       page but Get a quote and contact werent working.
+
+     * I Figured out that my links never had the '#' in front of them to link with id.
+
+
+    [My Faulty Code](/assets/readme/code.png)
+    
          
           
       
