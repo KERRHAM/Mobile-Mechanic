@@ -9,5 +9,5 @@ media links.
 
 Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mechanic/)
 
-[Am I Responsive] (assets/images/Am I responsive for p1.png)
+![Am I Responsive](/assets/images/am-i-responsive.png)
 
