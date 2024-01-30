@@ -36,6 +36,34 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
 
     
      ![Header-section](/assets/images/nav-ss.png)
+
+  * Auto Kerr? 
+     
+     * The Auto Kerr? section is there to win the user over by explaining 
+       what seperates us from other garages.
+     
+     * The text and heading is alligned to be in the centre to give better 
+       readability to the user.
+  
+     
+     ![Auto Kerr?](/assets/images/why-auto-kerr.png)
+
+
+  * Services
+    
+    * The services section offers a summary of what we can offer to our customers
+    
+    * The grid layout is used to allign all the content, with the Service offered and  
+      short description on the left and image on the right.
+    
+    * The grid layout has a Green Border to match the header and footer.
+
+
+    ![services](/assets/images/SERVICES.png)
+
+    * Get a Quote 
+       
+       *
       
       
 
