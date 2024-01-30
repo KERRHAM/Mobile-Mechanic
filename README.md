@@ -7,3 +7,7 @@ The Auto Kerr Website is very user friendly and convientant wether youre a pro o
 The page has various sections from Why use Auto Kerr?, services offered, Get a Quote section and contact/social
 media links.
 
+Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mechanic/)
+
+[Am I Responsive] (assets/images/Am I responsive for p1.png)
+
