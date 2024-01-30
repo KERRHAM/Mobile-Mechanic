@@ -9,5 +9,23 @@ media links.
 
 Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mechanic/)
 
-![Am I Responsive](/assets/images/am-i-responsive.png)
+![am-I-responsive](assets/images/am-i-responsive.png)
+
+## Features
+
+  * Navigation
+   
+    * At the top is the Nav-bar, to the left is the Logo and to the right is a Car icon used
+       for access to a drop-down menu for the internal website links to each section, Home,Services,Get a Quote 
+       and Contact
+    
+    * The Logo has its own Font to make it stand out with the colored background to attract the users attention.
+
+    * The Nav bar is a great way to offer stress free access to find your desired section and the logo stands
+      out in the left corner.
+
+![Nav Bar with drop-down menu](/assets/images/drop-down-menu.png)
+      
+
+
 
