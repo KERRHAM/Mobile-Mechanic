@@ -9,7 +9,7 @@ media links.
 
 Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mechanic/)
 
-![am-I-responsive](../Mobile-Mechanic/assets/readme/am-i-responsive.png)
+![am-I-responsive](/../Mobile-Mechanic/assets/readme/am-i-responsive.png)
 
 ## Features
 
@@ -24,7 +24,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
     * The Nav bar is a great way to offer stress free access to find your desired section and the logo stands
       out in the left corner.
 
-    ![Nav Bar with drop-down menu](../Mobile-Mechanic/assets/readme/drop-down-menu.png)
+    ![Nav Bar with drop-down menu](/../Mobile-Mechanic/assets/readme/drop-down-menu.png)
 
    * Header
     
@@ -35,7 +35,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
       * The Hero Image is located below the heading and the image collabarates with the following sections.
 
     
-     ![Header-section](../Mobile-Mechanic/assets/readme/nav-ss.png)
+     ![Header-section](/../Mobile-Mechanic/assets/readme/nav-ss.png)
 
   * Auto Kerr? 
      
@@ -46,7 +46,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
        readability to the user.
   
      
-     ![Auto Kerr?](../Mobile-Mechanic/assets/readme/why-auto-kerr.png)
+     ![Auto Kerr?](/../Mobile-Mechanic/assets/readme/why-auto-kerr.png)
 
 
   * Services
@@ -59,7 +59,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
     * The grid layout has a Green Border to match the header and footer.
 
 
-    ![services](../Mobile-Mechanic/assets/readme/SERVICES.png)
+    ![services](/../Mobile-Mechanic/assets/readme/SERVICES.png)
 
   * Get a Quote 
        
@@ -72,7 +72,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
        * the form also has Validation built in to make sure no input is left blank.
 
 
-       ![services](../Mobile-Mechanic/assets/readme/get-a-quote.png)
+       ![services](/../Mobile-Mechanic/assets/readme/get-a-quote.png)
 
   * Contact
        
@@ -88,7 +88,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
        * All the content in the contact section has been centered, Icon links have been colored white
          and font size increased for user readability.
 
-         ![contact section](../Mobile-Mechanic/assets/readme/contact-ss.png)
+         ![contact section](/../Mobile-Mechanic/assets/readme/contact-ss.png)
   
   * Testing
    
@@ -115,7 +115,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
 
    * Adding the symbol # to link the id fixed the problem.
 
-     ![My Faulty Code](../Mobile-Mechanic/assets/readme/code.jpg)
+     ![My Faulty Code](/../Mobile-Mechanic/assets/readme/code.jpg)
 
    ### Validator Testing
 
@@ -134,7 +134,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
 
     
     
-![lighthouse](../Mobile-Mechanic/assets/readme/my-Lighthouse.png)
+![lighthouse](/../Mobile-Mechanic/assets/readme/my-Lighthouse.png)
 
 
    ### Unfixed Bugs
