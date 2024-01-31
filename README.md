@@ -138,7 +138,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
    ### Unfixed Bugs
    No Unfixed Bugs
 
-   # Deployement
+   # Deployment
 
    * The site was deployed to Github Pages, The steps to do so are as follows.
      
@@ -147,3 +147,17 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
      * From the source section drop-down menu, select the master branch.
 
      * Once the Master branch has been selected, The page provided the link to the completed website.
+
+     
+     
+# Credits
+Content
+   
+   * My Mentor was very helpful with the planning of this project.
+   
+   * The code for the drop-down menu was taken from The CI [Love Running](https://kerrham.github.io/love-running/)
+     Project
+
+Media
+
+   * All my images were aquired from the website [pexels](https://www.pexels.com/).
