@@ -3,7 +3,7 @@
 Auto Kerr is a website offered to all users that are having difficulties gettting repairs carried out, Auto Kerr
 is  a Mobile service that comes to your location to handle your vehicle repairs more conviently.
 
-The Auto Kerr Website is very user friendly and convientant wether youre a pro or beginner in tech, 
+The Auto Kerr Website is very user friendly and convientant weather you're a pro or beginner in tech, 
 The page has various sections from Why use Auto Kerr?, services offered, Get a Quote section and contact/social
 media links.
 
@@ -22,8 +22,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
     
     * The Logo has its own Font to make it stand out with the colored background to attract the users attention.
 
-    * The Nav bar is a great way to offer stress free access to find your desired section and the logo stands
-      out in the left corner.
+    * The Nav bar is a great way to offer stress free access to find your desired section.
 
     ![drop-down-menu](https://github.com/KERRHAM/Mobile-Mechanic/assets/156520279/f0033165-308b-4554-98ca-f31668fad638)
 
@@ -32,17 +31,17 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
     
       * The Header section features a Welcome message and Hero Image.
     
-      * the welcome message is in a h2 element ot make it bold and stand out.
+      * the welcome message is in a h2 element to make it bold and stand out.
 
       * The Hero Image is located below the heading and the image collabarates with the following sections.
 
-    ![nav-ss](https://github.com/KERRHAM/Mobile-Mechanic/assets/156520279/b76c6c35-de1c-4b6b-b2af-ebea167d8d54)
+![nav-ss](https://github.com/KERRHAM/Mobile-Mechanic/assets/156520279/b76c6c35-de1c-4b6b-b2af-ebea167d8d54)
 
 
   * Auto Kerr? 
      
      * The Auto Kerr? section is there to win the user over by explaining 
-       what seperates us from other garages.
+       what seperates themselves from other garages.
      
      * The text and heading is alligned to be in the centre to give better 
        readability to the user.
@@ -68,7 +67,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
 
   * Get a Quote 
        
-       * The get a quote form has 5 functions, The form asks for the users Full name,telephone number,service required,
+       * The Get a Quote form has 5 functions, The form asks for the users Full name,telephone number,service required,
          additional information about your vehicle issue and a submit button to send info to Auto Kerr.
        
        * the form & inputs functions have a colored border, the submit button also has a background-color to better
@@ -107,7 +106,7 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
      and easy to understand.
 
    * I have confirmed my form works, all data entered is posted and saved, all inputs must be filled or 
-     error message appears and when submit is pressed new page is opened.
+     error message appears and when submitted a page is opened.
 
 
    
@@ -117,22 +116,22 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
    * When I opened my project on github i went to open my navbar and use the links to naviagte through the
             page but Get a quote and contact werent working.
 
-   * I Figured out that my links never had the # in front of them to link with id.
+   * I Figured out that my links never had the # in front of them to link with the div's id.
 
    * Adding the symbol # to link the id fixed the problem.
 
-    ![code](https://github.com/KERRHAM/Mobile-Mechanic/assets/156520279/bdee1e7f-b274-4d60-b04d-54afa98bc55e)
+![code](https://github.com/KERRHAM/Mobile-Mechanic/assets/156520279/bdee1e7f-b274-4d60-b04d-54afa98bc55e)
 
 
    ### Validator Testing
 
    * HTML
     
-     * No Errors found.
+     * No Errors found, when using the W3C Validator.
    
    * CSS
 
-     * No Errors found.
+     * No Errors found, When using the offical (jigsaw) validator
 
    * Accessibility
 
@@ -164,9 +163,9 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
 # Credits
 Content
    
-   * My Mentor was very helpful with the planning of this project.
+   * My Mentor was very helpful with the planning of this project and keeping me on schedule.
    
-   * The code for the drop-down menu was taken from The CI [Love Running](https://kerrham.github.io/love-running/)
+   * The code for the drop-down menu in the nav was taken from The CI [Love Running](https://kerrham.github.io/love-running/)
      Project
 
 Media
