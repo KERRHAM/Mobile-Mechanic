@@ -116,15 +116,24 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
    * Adding the symbol # to link the id fixed the problem.
 
      ![My Faulty Code](/assets/readme/code.jpg)
+
+   ### Validator Testing
+
+   * HTML
     
-          
+     *
+   
+   * CSS
 
-     
-      
-         
-          
-      
-      
+     * 
+
+   * Accessibility
+
+     * I confirmed that the colours and fonts chosen are easy to read and accessible by running it 
+       through Lighthouse in dev tools.
+
+    [lighthouse]
 
 
-
+   ### Unfixed Bugs
+   No Unfixed Bugs
