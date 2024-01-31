@@ -9,7 +9,8 @@ media links.
 
 Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mechanic/)
 
-![am-I-responsive](assets/readme/am-i-responsive.png)
+![am-i-responsive](https://github.com/KERRHAM/Mobile-Mechanic/assets/156520279/422b1642-a126-455d-830c-4c9ae76d4fa1)
+
 
 ## Features
 
