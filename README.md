@@ -137,3 +137,13 @@ Here is the link to my webpage [Auto Kerr](https://kerrham.github.io/Mobile-Mech
 
    ### Unfixed Bugs
    No Unfixed Bugs
+
+   # Deployement
+
+   * The site was deployed to Github Pages, The steps to do so are as follows.
+     
+     * In the Github respository, Navigate to the settings tab.
+     
+     * From the source section drop-down menu, select the master branch.
+
+     * Once the Master branch has been selected, The page provided the link to the completed website.
